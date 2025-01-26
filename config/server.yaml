@@ -1,0 +1,5 @@
+httpserver:
+  address: "localhost"
+  port: "8010"
+  timeout: 3s
+  idletimeout: 30s
